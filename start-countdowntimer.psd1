@@ -12,7 +12,7 @@
 # RootModule = ''
 
 # Version number of this module.
-ModuleVersion = '1.0'
+ModuleVersion = '1.0.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -24,7 +24,7 @@ GUID = '5f06f694-a9fc-4721-b3b6-4619e92f4e42'
 Author = 'stib'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'pureandapplied'
 
 # Copyright statement for this module
 Copyright = '(c) 2019 stib. All rights reserved.'
